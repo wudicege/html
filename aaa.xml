@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clothes>
+	<cloth id="001">
+		<property>S</property>
+		<height>身高小于165</height>
+	</cloth>
+	<cloth id="002">
+		<property>M</property>
+		<height>身高小于170大于165</height>
+	</cloth>
+	<cloth id="003">
+		<property>L</property>
+		<height>身高小于175大于170</height>
+	</cloth>
+	<cloth id="004">
+		<property>xl</property>
+		<height>身高小于180大于175</height>
+	</cloth>
+
+</clothes>
+<student>
+<student id="s1000" name="tony" score="&it98"/>
+ </student>
